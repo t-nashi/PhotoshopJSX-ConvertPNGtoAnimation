@@ -25,7 +25,7 @@ JSXファイルと同階層に実行時の日時の psd ファイルと gif フ�
 * `ConvertPNGtoAnimation.jsx` がメインの実行ファイル
 * `resource` フォルダ内の `png` ファイルを Photoshop 内へ読み込む （サンプルpng用意済）
 * 処理が成功するとJSXファイルと同階層に実行日時名の psd と gif(256色) ファイルが出力される
-* フレームアニメーションは「1秒フレーム送り / 無限ループ」に設定してある
+* フレームアニメーションは「各フレーム1秒送り / 無限ループ」に設定してある
 
 ## コピーライト （Copyright）
 Copyright © 2017+ Tsutomu Takanashi. See LICENSE for details.
