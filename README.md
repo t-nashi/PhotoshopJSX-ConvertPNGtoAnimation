@@ -3,6 +3,8 @@
 このプログラムは [Adobe Photoshop](http://www.adobe.com/jp/products/photoshop.html) で動作する JavaScript(JSX) です。
 実行するとJSXファイルと同階層の「`resource`」フォルダ内にある png ファイルを一つの psd ドキュメント内にまとめてフレームアニメーション化して psd と gif を出力します。
 
+「Adobe Photoshop CC 2017」で動作確認済みです。
+
 ## 注意 （cautionn）
 
 * 本プログラムご使用は自己責任でお願いいたします
