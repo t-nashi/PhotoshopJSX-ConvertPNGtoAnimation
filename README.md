@@ -1,0 +1,2 @@
+# PhotoshopJSX-ConvertPNGtoAnimation
+【PhotoshopJSX】本JSXファイルと同階層の「resource」フォルダ内にあるpngをまとめてGIFアニメーション化するスクリプト
