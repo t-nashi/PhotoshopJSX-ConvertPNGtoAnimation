@@ -15,13 +15,15 @@
 
 ## 使用法 （Usage）
 
-すでに「resource」フォルダ内にサンプルのpngファイルを用意しているので、JSXファイルをダブルクリックか Photoshop 内へドラッグ＆ドロップして実行することで効果を確認できます。
+* 「`ConvertPNGtoAnimation.jsx`」をダブルクリックか Photoshop 内へドラッグ＆ドロップして実行
+
+すでに「resource」フォルダ内にサンプルのpngファイルを用意しているので、JSXファイルを実行することで効果を確認できます。
 JSXファイルと同階層に実行時の日時の psd ファイルと gif ファイルが出力されれば成功です。
 
 ## 仕様 (specification)
 
 * `ConvertPNGtoAnimation.jsx` がメインの実行ファイル
-* `resource` フォルダ内の `png` ファイルを Photoshop 内へ読み込む
+* `resource` フォルダ内の `png` ファイルを Photoshop 内へ読み込む （サンプルpng用意済）
 * 処理が成功するとJSXファイルと同階層に実行日時名の psd と gif(256色) ファイルが出力される
 * フレームアニメーションは「1秒フレーム送り / 無限ループ」に設定してある
 
