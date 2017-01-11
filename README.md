@@ -3,7 +3,13 @@
 このプログラムは [Adobe Photoshop](http://www.adobe.com/jp/products/photoshop.html) で動作する JavaScript(JSX) です。
 実行するとJSXファイルと同階層の「`resource`」フォルダ内にある png ファイルを一つの psd ドキュメント内にまとめてフレームアニメーション化して psd と gif を出力します。
 
-「Adobe Photoshop CC 2017」で動作確認済みです。
+▽動作確認済み
+・Adobe Photoshop CC 2015 （Windows10）
+・Adobe Photoshop CC 2017 （Windows10、OSX El Capitan(v10.11.6)）
+
+## 解説サイト
+
+[[Photoshop][JSX] 複数のpngを一つのpsdにまとめてgif書き出しをするスクリプト「ConvertPNGtoAnimation」 | これを読めば思い出す](http://www.koreyome.com/web/photoshop-jsx-convertpngtoanimation/)
 
 
 ## 注意 （cautionn）
