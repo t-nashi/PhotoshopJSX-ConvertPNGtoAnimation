@@ -14,6 +14,7 @@
 
 
 ## 解説サイト
+![ConvertPNGtoAnimation_Usage-Sample](https://user-images.githubusercontent.com/5539081/116813053-d7400400-ab8c-11eb-886b-78692ed058cc.gif)
 
 [[Photoshop][JSX] 複数のpngを一つのpsdにまとめてgif書き出しをするスクリプト「ConvertPNGtoAnimation」 | これを読めば思い出す](http://www.koreyome.com/web/photoshop-jsx-convertpngtoanimation/)
 <br><br><br>
